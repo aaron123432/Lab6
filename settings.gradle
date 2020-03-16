@@ -1,0 +1,2 @@
+rootProject.name='PaletteFragment'
+include ':app'
